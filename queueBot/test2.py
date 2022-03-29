@@ -1,7 +1,7 @@
 from pantheon import pantheon
 import asyncio
 server = "na1"
-api_key = "RGAPI-a1487d81-325d-4d95-8360-220fbf747961"
+api_key = Rito Api Key
 data = {
   "mapType": "SUMMONERS_RIFT",
   "pickType": "TOURNAMENT_DRAFT",
