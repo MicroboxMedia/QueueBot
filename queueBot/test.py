@@ -5,7 +5,7 @@ import matchmaking
 import test2
 
 bot = commands.Bot(command_prefix="$")
-token = "OTU3Njg0NzQ2MzM3NTIxNzU2.YkCXbA.vPTI1DEWtUmXVZhocizSq4Tjvs0"
+token = Token
 
 
 @bot.event
